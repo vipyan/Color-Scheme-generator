@@ -31,7 +31,12 @@ This is a simple web application that generates color schemes based on a selecte
 
 ## Example
 
-![Color Scheme Generator Screenshot](screenshot.png)
+![Color Scheme Generator Screenshot 1](Screenshot_1.png)
+![Color Scheme Generator Screenshot 1](Screenshot_2.png)
+
+## Inspiration
+
+This project is inspired by Scrimba's Solo Project and aims to demonstrate the use of RESTful APIs in a practical application.
 
 ## License
 
