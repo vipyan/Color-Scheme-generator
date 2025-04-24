@@ -1,14 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+
 html, body {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    font-family: 'Inter', sans-serif;
 }
 
 #color-picker-form{
+    height: 10vh;
     display: flex;
     text-align: center;
     justify-content: space-around;
     align-items: center;
+    bottom: #FFFFFF;
 }
 .color-name-container{
     border: 1px solid black;
@@ -20,6 +25,24 @@ html, body {
     justify-content: space-between;
     align-items: center;
     }
+
+    .color-picker{
+        height: 2.3rem;
+       
+        border: 1px solid #D1D5DB;
+    }
+    
+    #harmony{
+        border-radius: 7px;
+        padding: .2em .3em;
+    }
+
+    #btn{
+        border-radius: 7px;
+        padding: .2em .5em;
+        background-color: #FFFFFF;
+    }
+   
     
    .container{
     width: 100vw;
